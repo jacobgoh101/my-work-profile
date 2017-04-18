@@ -1,5 +1,8 @@
 # CV
   - https://www.visualcv.com/jacobgoh101
+  
+# Stack Overflow Profile
+  - https://stackoverflow.com/users/5599288/jacob-goh?tab=profile
 
 # React and Redux
   - Dungeon Crawler Game 
